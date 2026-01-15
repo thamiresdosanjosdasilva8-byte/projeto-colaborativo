@@ -1,2 +1,4 @@
 1- Configurar ambiente
 2- Criar estrutura do projeto
+3- Baixar Git
+4- Criar conta gitHub
